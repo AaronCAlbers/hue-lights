@@ -4,6 +4,7 @@
 #include <httplib.h>
 #include <json/json.h>
 #include <vector>
+#include <string>
 #include <map>
 #include <stdexcept>
 
